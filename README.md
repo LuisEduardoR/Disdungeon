@@ -3,7 +3,11 @@
 ### by Luís Eduardo Rozante de Freitas Pereira
 ---
 
-**Disdungeon** is a game made for the [Geleia Game Jam](https://itch.io/jam/geleiajam) organized by [Fellowship of the Game](https://fog-icmc.itch.io/) on **ICMC USP São Carlos**.
+**This branch is destined to keep the game code on it's original release state after the end of Geleia Game Jam.**
+
+---
+
+**Disdungeon** is a game made for the [Geleia Game Jam](https://itch.io/jam/geleiajam) organized by [Fellowship of the Game](https://fog-icmc.itch.io/) on **ICMC USP São Carlos**, it's also available on [Itch.io](https://lerozante.itch.io/disdungeon).
 
 The theme was: **"Villains also matter"**.
 
